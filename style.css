@@ -1,0 +1,23 @@
+.hindex.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+.recipe{
+    font-size: 24px;
+    color: black;
+    background-color: grey;
+}
+#description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+
+}
+.header{
+    background-color: salmon;
+
+}
+.unoderlist{
+    background-color: antiquewhite;
+}
